@@ -1,0 +1,72 @@
+[
+    {
+        "id": "100",
+        "name": "Júlio César",
+        "email": "julio@example.com",
+        "country": "BR",
+        "age": "25"
+    },
+    {
+        "id": "101",
+        "name": "Thayanne Andrade",
+        "email": "thayanne@example.com",
+        "country": "BR",
+        "age": "24"
+    },
+    {
+        "id": "102",
+        "name": "Jordan Peele",
+        "email": "jordan@example.com",
+        "country": "US",
+        "age": "50"
+    },
+    {
+        "id": "103",
+        "name": "Donald Glover",
+        "email": "donald@example.com",
+        "country": "US",
+        "age": "40"
+    },
+    {
+        "id": "104",
+        "name": "Aretha Franklin",
+        "email": "aretha@example.com",
+        "country": "US",
+        "age": "80"
+    },
+    {
+        "id": "105",
+        "name": "Queen Latifah",
+        "email": "quenn@example.com",
+        "country": "US",
+        "age": "52"
+    },
+    {
+        "id": "106",
+        "name": "Beyoncé Knoles",
+        "email": "beyonce@example.com",
+        "country": "US",
+        "age": "33"
+    },
+    {
+        "id": "107",
+        "name": "Carolina Nascimento",
+        "email": "carolina@example.com",
+        "country": "BR",
+        "age": "60"
+    },
+    {
+        "id": "108",
+        "name": "Bell Hooks",
+        "email": "bell@example.com",
+        "country": "US",
+        "age": "63"
+    },
+    {
+        "id": "109",
+        "name": "Alcione",
+        "email": "alcione@example.com",
+        "country": "BR",
+        "age": "60"
+    }
+]
